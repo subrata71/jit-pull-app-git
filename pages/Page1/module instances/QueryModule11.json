@@ -6,9 +6,20 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
-    "moduleInputs": {},
+    "inputs": {
+      "limit": "2"
+    },
+    "moduleInputs": {
+      "klurbposfi": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2",
+        "id": "klurbposfi",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      }
+    },
     "name": "QueryModule11",
-    "pageId": "Page1"
+    "pageId": "Page1",
+    "version": "0.0.4"
   }
 }
