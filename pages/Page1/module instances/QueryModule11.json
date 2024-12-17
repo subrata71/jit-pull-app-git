@@ -19,6 +19,7 @@
       }
     },
     "name": "QueryModule11",
-    "pageId": "Page1"
+    "pageId": "Page1",
+    "version": "0.0.4"
   }
 }
