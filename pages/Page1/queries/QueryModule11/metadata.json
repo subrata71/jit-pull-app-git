@@ -2,10 +2,8 @@
   "gitSyncId": "6759815691f64f10063dcffd_11194c2e-778e-4cc8-a69f-ef5b6a591183",
   "id": "Page1__$QueryModule11$_QueryModule1",
   "isPublic": true,
-  "moduleInstanceId": "Page1_QueryModule11",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
-  "rootModuleInstanceId": "Page1_QueryModule11",
   "unpublishedAction": {
     "confirmBeforeExecute": false,
     "contextType": "PAGE",
